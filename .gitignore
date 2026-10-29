@@ -1,0 +1,29 @@
+# ---- OS / 编辑器 ----
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+
+# ---- EDA 临时与备份文件 ----
+*.bak
+*.bak.*
+*_backup*
+*-backup/
+Project Logs/
+History/
+__preview/
+*.autosave
+
+# ---- 导出中间件 ----
+*.tmp
+*.log
+*.dsn
+*.pcs
+*.rul
+*.stackup
+*.apjob
+
+# ---- 本地工作目录 ----
+.scratch/
+.cache/
